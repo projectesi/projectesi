@@ -945,7 +945,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Next tournament details here",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More info</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">More info</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/morecomingsoon-940x460.jpg",
